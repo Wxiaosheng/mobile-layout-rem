@@ -1,8 +1,8 @@
 {
   "name": "mobile-layout-rem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "移动端布局，移动端rem布局",
-  "main": "index.js",
+  "main": "lib/mobilelayoutrem.min.js",
   "scripts": {
     "release": "npm publish . --access=public"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Wxiaosheng/mobile-layout-rem.git"
   },
   "keywords": [
-    "rem布局", "移动端布局", "自适应布局"
+    "mobile-layout-rem","rem布局", "移动端布局", "自适应布局"
   ],
   "author": "tianzun",
   "license": "ISC",

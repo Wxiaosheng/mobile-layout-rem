@@ -16,3 +16,8 @@ import initLayoutREM from 'mobile-layout-rem'
 // 直接调用即可
 initLayoutREM()
 ```
+
+### 单位换算
+本工具默认的是基于 750px 的设计稿的，因此换算公式为：
+
+  20px = 20 / 100 = 0.2rem

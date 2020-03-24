@@ -1,0 +1,30 @@
+{
+  "name": "mobile-layout-rem",
+  "version": "1.0.0",
+  "description": "移动端rem布局",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wxiaosheng/mobile-layout-rem.git"
+  },
+  "keywords": [
+    "rem布局"
+  ],
+  "author": "tianzun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wxiaosheng/mobile-layout-rem/issues"
+  },
+  "homepage": "https://github.com/Wxiaosheng/mobile-layout-rem#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
